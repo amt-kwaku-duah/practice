@@ -1,0 +1,11 @@
+node_modules/
+.env
+src/utils/
+src/types/
+src/templates/
+src/services/
+src/schema/
+src/routes/lecturerRoute.ts
+src/routes/studentRoute.ts
+src/controllers/lecturerController/
+src/controllers/studentController/
